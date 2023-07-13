@@ -1,0 +1,17 @@
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\bin\Debug\net5.0\Pizzapan.BusinessLayer.deps.json
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\bin\Debug\net5.0\Pizzapan.BusinessLayer.dll
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\bin\Debug\net5.0\Pizzapan.BusinessLayer.pdb
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.dll
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.dll
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.pdb
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.pdb
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.csproj.AssemblyReference.cache
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.AssemblyInfoInputs.cache
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.AssemblyInfo.cs
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.csproj.CopyComplete
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.dll
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\refint\Pizzapan.BusinessLayer.dll
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.pdb
+D:\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\ref\Pizzapan.BusinessLayer.dll

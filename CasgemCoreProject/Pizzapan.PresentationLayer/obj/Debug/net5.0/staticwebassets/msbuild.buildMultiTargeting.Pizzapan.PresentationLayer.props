@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pizzapan.PresentationLayer.props" />
+</Project>
