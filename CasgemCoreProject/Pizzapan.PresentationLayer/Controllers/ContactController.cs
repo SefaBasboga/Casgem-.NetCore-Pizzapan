@@ -23,6 +23,10 @@ namespace Pizzapan.PresentationLayer.Controllers
             _contactService.TDelete(values);
             return RedirectToAction("Index");
         }
-       // public IActionResult MessageDetailsContact()
+        public IActionResult GetMessageByTesekkur()
+        {
+            var values = _contactService.TGetContactBySubjectWithTesekkur();
+            return View(values);
+        }
     }
 }

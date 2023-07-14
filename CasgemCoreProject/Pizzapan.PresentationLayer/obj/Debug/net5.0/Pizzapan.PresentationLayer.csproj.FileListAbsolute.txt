@@ -325,3 +325,5 @@ D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Deb
 D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.genruntimeconfig.cache
 D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\ref\Pizzapan.PresentationLayer.dll
 D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Contact\GetMessageByTesekkur.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Discount\CreateCode.cshtml.g.cs

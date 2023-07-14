@@ -61,6 +61,30 @@ namespace Pizzapan.DataAccessLayer.Migrations
                     b.ToTable("Contacts");
                 });
 
+            modelBuilder.Entity("Pizzapan.EntityLayer.Concrete.Discount", b =>
+                {
+                    b.Property<int>("DiscountID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("DiscountCode")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("DiscountCount")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("DiscountEnd")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("DiscountStart")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("DiscountID");
+
+                    b.ToTable("Discounts");
+                });
+
             modelBuilder.Entity("Pizzapan.EntityLayer.Concrete.Product", b =>
                 {
                     b.Property<int>("ProductID")
@@ -120,13 +144,13 @@ namespace Pizzapan.DataAccessLayer.Migrations
 
             modelBuilder.Entity("Pizzapan.EntityLayer.Concrete.Product", b =>
                 {
-                    b.HasOne("Pizzapan.EntityLayer.Concrete.Category", "category")
+                    b.HasOne("Pizzapan.EntityLayer.Concrete.Category", "Category")
                         .WithMany("Products")
                         .HasForeignKey("CategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("category");
+                    b.Navigation("Category");
                 });
 
             modelBuilder.Entity("Pizzapan.EntityLayer.Concrete.Category", b =>
