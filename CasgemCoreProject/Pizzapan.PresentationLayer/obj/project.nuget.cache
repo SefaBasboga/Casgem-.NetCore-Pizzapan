@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LPE1q38JnOFsmj2qIu6a1aYD52IybiEApBOqBDsREpAtPPZo+tUZYkfwOpf4Jyh1UKI7FvDdmRcKqDyCs+lwQA==",
+  "dgSpecHash": "FczB8uZJUDLLfePOfEKsunjGKP91MXgdIvkvx5vJlHOMrkVwtK79Pbayc7jZ0AApEraLwiXINZmX4sxe9vXHtQ==",
   "success": true,
-  "projectFilePath": "D:\\CasgemCoreProject\\Pizzapan.PresentationLayer\\Pizzapan.PresentationLayer.csproj",
+  "projectFilePath": "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.PresentationLayer\\Pizzapan.PresentationLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

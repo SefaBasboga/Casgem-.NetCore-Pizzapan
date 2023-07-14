@@ -13,3 +13,18 @@ D:\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\refint\Pizzapan.Entit
 D:\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.pdb
 D:\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.genruntimeconfig.cache
 D:\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\ref\Pizzapan.EntityLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.EntityLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.deps.json
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.EntityLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.runtimeconfig.json
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.EntityLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.runtimeconfig.dev.json
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.EntityLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.EntityLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.csproj.AssemblyReference.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.AssemblyInfoInputs.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.AssemblyInfo.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.csproj.CoreCompileInputs.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\refint\Pizzapan.EntityLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.genruntimeconfig.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\ref\Pizzapan.EntityLayer.dll

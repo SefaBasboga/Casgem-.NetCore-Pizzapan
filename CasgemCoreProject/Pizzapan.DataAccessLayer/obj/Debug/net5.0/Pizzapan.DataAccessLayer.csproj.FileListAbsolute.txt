@@ -16,3 +16,21 @@ D:\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\refint\Pizzapan.D
 D:\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.pdb
 D:\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.genruntimeconfig.cache
 D:\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\ref\Pizzapan.DataAccessLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.deps.json
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.runtimeconfig.json
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.runtimeconfig.dev.json
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.AssemblyInfo.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.csproj.CopyComplete
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\refint\Pizzapan.DataAccessLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.genruntimeconfig.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\ref\Pizzapan.DataAccessLayer.dll

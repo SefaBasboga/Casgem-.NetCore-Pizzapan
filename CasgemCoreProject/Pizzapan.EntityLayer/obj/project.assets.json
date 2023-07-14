@@ -6048,11 +6048,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
+      "projectUniqueName": "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
       "projectName": "Pizzapan.EntityLayer",
-      "projectPath": "D:\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
+      "projectPath": "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\CasgemCoreProject\\Pizzapan.EntityLayer\\obj\\",
+      "outputPath": "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

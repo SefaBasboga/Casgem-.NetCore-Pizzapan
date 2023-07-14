@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9f+CbSJSb4mP+oM8L4OWp38qKM7zqnkxiSxvv+B1Z2xTeV1+F54hKZ6Rghx2KQWLD2Aa+yQiCZAeQdY8ExtaLg==",
+  "dgSpecHash": "6p8VuEHTkFrC/jvVO8FvYUc38GuU7XH7xU2w3OTFRlIwH3E4iQCe0O+osa4LdMwPkK8Wf2/rMtzuUeby31DruQ==",
   "success": true,
-  "projectFilePath": "D:\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
+  "projectFilePath": "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

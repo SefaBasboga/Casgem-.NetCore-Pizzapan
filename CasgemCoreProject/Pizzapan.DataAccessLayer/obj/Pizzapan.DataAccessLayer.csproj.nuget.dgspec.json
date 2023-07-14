@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj": {}
+    "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj": {}
   },
   "projects": {
-    "D:\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj": {
+    "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj",
         "projectName": "Pizzapan.DataAccessLayer",
-        "projectPath": "D:\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj",
+        "projectPath": "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\obj\\",
+        "outputPath": "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -35,8 +35,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj": {
-                "projectPath": "D:\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj"
+              "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj": {
+                "projectPath": "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "D:\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj": {
+    "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
+        "projectUniqueName": "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
         "projectName": "Pizzapan.EntityLayer",
-        "projectPath": "D:\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
+        "projectPath": "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\CasgemCoreProject\\Pizzapan.EntityLayer\\obj\\",
+        "outputPath": "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

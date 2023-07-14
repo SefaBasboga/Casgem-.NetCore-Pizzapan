@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VJc2Nby1AlvE8saGH70ea4rcu3JNrwM9oJrwYozi/Wa7EySVHxF4hVAqIoFOTaEyL6WJcjeKUGUyY4/8DXQ0jg==",
+  "dgSpecHash": "GmoGwlDcRT1rOmdOL4tgGOu0bILxFz2tIDSZrleH5iKAvqdmD6Y2ppeQUuz9bcz1EHA9sNlpXQDO+q5RMybzHg==",
   "success": true,
-  "projectFilePath": "D:\\CasgemCoreProject\\Pizzapan.BusinessLayer\\Pizzapan.BusinessLayer.csproj",
+  "projectFilePath": "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.BusinessLayer\\Pizzapan.BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

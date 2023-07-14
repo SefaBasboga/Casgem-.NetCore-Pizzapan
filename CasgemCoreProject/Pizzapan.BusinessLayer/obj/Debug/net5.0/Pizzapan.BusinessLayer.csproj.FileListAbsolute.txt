@@ -15,3 +15,20 @@ D:\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLa
 D:\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\refint\Pizzapan.BusinessLayer.dll
 D:\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.pdb
 D:\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\ref\Pizzapan.BusinessLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\bin\Debug\net5.0\Pizzapan.BusinessLayer.deps.json
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\bin\Debug\net5.0\Pizzapan.BusinessLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\bin\Debug\net5.0\Pizzapan.BusinessLayer.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.csproj.AssemblyReference.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.AssemblyInfoInputs.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.AssemblyInfo.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.csproj.CopyComplete
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\refint\Pizzapan.BusinessLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\Pizzapan.BusinessLayer.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.BusinessLayer\obj\Debug\net5.0\ref\Pizzapan.BusinessLayer.dll
