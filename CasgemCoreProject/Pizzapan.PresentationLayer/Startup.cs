@@ -9,6 +9,8 @@ using Pizzapan.BusinessLayer.Concrete;
 using Pizzapan.DataAccessLayer.Abstract;
 using Pizzapan.DataAccessLayer.Concrete;
 using Pizzapan.DataAccessLayer.EntityFramework;
+using Pizzapan.EntityLayer.Concrete;
+using Pizzapan.PresentationLayer.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -31,12 +33,19 @@ namespace Pizzapan.PresentationLayer
             services.AddDbContext<Context>();
             services.AddScoped<ICategoryService, CategoryManager>();
             services.AddScoped<ICategoryDal, EfCategoryDal>();
+
             services.AddScoped<IProductService, ProductManager>();
             services.AddScoped<IProductDal, EfProductDal>();
+
             services.AddScoped<IContactService, ContactManager>();
             services.AddScoped<IContactDal, EfContactDal>();
+
+            services.AddScoped<IProductImageService, ProductImageManager>();
+            services.AddScoped<IProductImageDal, EfProductImageDal>();
+
             services.AddScoped<IDiscountService, DiscountManager>();
             services.AddScoped<IDiscountDal, EfDiscountDal>();
+            services.AddIdentity<AppUser,AppRole>().AddEntityFrameworkStores<Context>().AddErrorDescriber<CustomIdentityValidator>();
             services.AddControllersWithViews();
         }
 
@@ -57,7 +66,7 @@ namespace Pizzapan.PresentationLayer
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

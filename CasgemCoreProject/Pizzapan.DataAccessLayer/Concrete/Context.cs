@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Pizzapan.EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,9 @@ using System.Threading.Tasks;
 
 namespace Pizzapan.DataAccessLayer.Concrete
 {
-    public class Context:DbContext
+
+    //IdentityDbContext olarak yazarsak otomatik tablo oluşturur.
+    public class Context:IdentityDbContext<AppUser,AppRole,int>
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -19,5 +22,7 @@ namespace Pizzapan.DataAccessLayer.Concrete
         public DbSet<Product> Products { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
         public DbSet<Discount> Discounts { get; set; }
+        public DbSet<ProductImage> ProductImages { get; set; }
+
     }
 }
