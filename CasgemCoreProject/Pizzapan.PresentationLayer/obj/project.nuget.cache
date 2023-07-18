@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "H7s7VNN0DYIqps8Z0UhXDbqs2DRgAWJEX+R4fAvE5WzkV6sdQ/OSHKvpzNfX0HDotMJ69YBUjbzaxGeuMstllA==",
+  "dgSpecHash": "aTGKbzAz47t9nWNBqVku7rFOdhZpFM6aKEr54vx7I0GET320tX2TAbw+PC8AASQdhpHAOpoBR63Ja/vKC8at2A==",
   "success": true,
   "projectFilePath": "D:\\Casgem Eğitim Projeleri\\CasgemCoreProject\\Pizzapan.PresentationLayer\\Pizzapan.PresentationLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\mailkit\\3.2.0\\mailkit.3.2.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

@@ -347,3 +347,12 @@ D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Deb
 D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\ProductImage\Index.cshtml.g.cs
 D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
 D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\Components\_HeadPartial\Default.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\Components\_NavbarPartial\Default.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\Components\_FeaturePartial\Default.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\Components\_ProductPartial\Default.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\Components\_TestimonialPartial\Default.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\FluentValidation.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.MvcApplicationPartsAssemblyInfo.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\OurTeam\AddOurTeam.cshtml.g.cs
