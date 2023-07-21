@@ -26,7 +26,7 @@ namespace Pizzapan.PresentationLayer.Controllers
         [HttpPost]
         public async Task<IActionResult> Index(MailConfirmedViewModel confirmMailViewModel)
         {
-            var user = await _userManager.FindByEmailAsync(confirmMailViewModel.Mail);
+            var user = await _userManager.FindByNameAsync(confirmMailViewModel.Username);
             if (user.ConfirmCode == confirmMailViewModel.ConfirmCode)
             {
                 user.EmailConfirmed = true;

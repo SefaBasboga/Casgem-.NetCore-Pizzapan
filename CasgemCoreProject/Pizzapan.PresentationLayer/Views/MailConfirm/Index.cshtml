@@ -12,7 +12,7 @@
         <h2>Taşınan Mail Adresi: @ViewBag.v</h2>
         <br />
         <label>Kullanıcı Adı</label>
-        <input type="text" class="form-control" asp-for="Mail" value="@ViewBag.v" readonly />
+        <input type="text" class="form-control" asp-for="Username" value="@TempData["code"]" readonly />
         <br />
         <label>Mail Adresinize Gelen 6 Haneli Kodu Giriniz</label>
         <input type="text" class="form-control" asp-for="ConfirmCode" />

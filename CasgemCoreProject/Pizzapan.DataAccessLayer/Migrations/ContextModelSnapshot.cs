@@ -371,6 +371,30 @@ namespace Pizzapan.DataAccessLayer.Migrations
                     b.ToTable("ProductImages");
                 });
 
+            modelBuilder.Entity("Pizzapan.EntityLayer.Concrete.SendMessage", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Email")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Message")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("SendMessages");
+                });
+
             modelBuilder.Entity("Pizzapan.EntityLayer.Concrete.Testimonial", b =>
                 {
                     b.Property<int>("TestimonialID")
